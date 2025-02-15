@@ -12,10 +12,7 @@ A Tampermonkey userscript that enables loading and executing local JavaScript fi
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) extension
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/xcvrys/Local-Files-Loader-for-Tampermonkey.git
-   ```
+2. Move [`LinkedIn Word Highlighter-1.5.user.js`](https://github.com/xcvrys/Local-Files-Loader-for-Tampermonkey/blob/main/LinkedIn%20Word%20Highlighter-1.5.user.js) to Tampermonkey scripts
 3. Start local server from project directory:
    ```bash
    python -m http.server 8000
