@@ -4,7 +4,7 @@
 // @version      1
 // @description  ProjectName - local files
 // @author       xcvrys
-// @match        https://www.linkedin.com/jobs/*
+// @match        your-sites
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addElement
 // @run-at       document-start
