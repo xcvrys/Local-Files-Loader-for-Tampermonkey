@@ -14,7 +14,7 @@ A Tampermonkey userscript that enables loading and executing local JavaScript fi
 1. Install [Tampermonkey](https://www.tampermonkey.net/) extension
 2. Clone this repository:
    ```bash
-   git clone https://github.com/a/a.git
+   git clone https://github.com/xcvrys/Local-Files-Loader-for-Tampermonkey.git
    ```
 3. Start local server from project directory:
    ```bash
