@@ -84,6 +84,8 @@ Change port by modifying:
   ```bash
   curl http://localhost:8000/main.js
   ```
+## NOTE
+You can use [webpack](https://webpack.js.org/) to build you project and link it
 
 ## FAQ
 
